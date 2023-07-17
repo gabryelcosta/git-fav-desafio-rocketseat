@@ -1,0 +1,18 @@
+:root {
+  font-size: 62.5%;
+
+  --ff-primary: 'Roboto', Sans-serif;
+
+  /*cores*/
+  --bg-page: #000000;
+  --bg-buttom: #065E7C;
+  --bg-tittle: #092D38;
+  --bg-content: rgba(6, 22, 27, 50);
+  --bg-content-primary: #4A808C;
+  --bg-search: #06181C;
+  --tt-primary: #FFFFFF;
+  --tt-remove: #F75A68;
+  --tt-message: #4E5455;
+  --tt-placeholder: #7C7C8A;
+  --tt-table: #E1E1E6;
+}
